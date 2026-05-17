@@ -1,38 +1,38 @@
 A web-based Digital Signal Processing (DSP) project that allows users to upload audio files and apply different voice effects in real time.
 
 🚀 Features
-Upload and play audio files
-Apply multiple voice effects
-Simple and interactive UI
-Real-time audio preview
-Modern web interface
-Audio summarization support
+1.Upload and play audio files.
+2.Apply multiple voice effects.
+3.Simple and interactive UI.
+4.Real-time audio preview.
+5.Modern web interface.
+6.Audio summarization support.
 
 🛠️ Technologies Used
-HTML
-CSS
-JavaScript
-Python / Flask
-Digital Signal Processing (DSP)
+1.HTML.
+2.CSS.
+3.JavaScript.
+4.Python / Flask.
+5.Digital Signal Processing (DSP).
 
 🎯 Project Objectives
-Apply DSP concepts in audio processing
-Build a practical real-world application
-Improve user interaction with audio effects
-Combine backend processing with frontend visualization
+1.Apply DSP concepts in audio processing.
+2.Build a practical real-world application.
+3.Improve user interaction with audio effects.
+4.Combine backend processing with frontend visualization.
 
 📸 Preview
 The application contains:
-Audio upload section
-Audio player
-Voice effects cards
-Interactive controls
-Clean responsive design
+1.Audio upload section.
+2.Audio player.
+3.Voice effects cards.
+4.Interactive controls.
+5.Clean responsive design.
 
 📌 Future Improvements
-Add AI voice cloning
-Noise reduction filters
-More sound effects
-Audio visualization graphs
-Download modified audio
-Dark mode support
+1.Add AI voice cloning.
+2.Noise reduction filters.
+3.More sound effects.
+4.Audio visualization graphs.
+5.Download modified audio.
+6.Dark mode support.
